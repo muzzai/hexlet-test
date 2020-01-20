@@ -1,0 +1,21 @@
+{
+  "name": "test_course",
+  "version": "0.0.1",
+  "description": "Test course from hexlet",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yo",
+    "yo"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
